@@ -1,0 +1,131 @@
+# CV-Assignment- 
+ 
+ SMIT BATCH 10 MWF 9-11
+
+Morning
+
+Create Your CV using html tags
+
+Attari bilal
+
+•
+
+Jun 7
+
+100 points
+
+Your work
+
+Turned in
+
+CV.html
+
+HTML
+
+Private comments
+
+Create Your CV using html tags
+
+<html>
+
+<head>
+
+    <title>CV File</title>
+
+</head>   
+
+<body>
+
+   <br>
+
+    <h1 style="text-align: center;"><i><u>
+
+        Muhammed Haris
+
+    </u></i></h1>
+
+<br>
+
+<p>
+
+    <h4 style="text-align: center;"><i>ADRESS : HOUSE # R-17, Babar Town, Mallir Halt, Karachi. </h4></i>
+
+     <h4 style="text-align: center;"><i>Mobile No: 0346-2274186</i></h4>
+
+     <h4 style="text-align: center;"><address> <a href="mailto:harismumtaz090@gmail.com">harismumtaz090gmail.com</a> </address></h4>
+
+<br><br>
+
+    <h2><u> EDUCATION </u></h2> <br>
+
+  <ul> <li><b>Matricuation:</b> From Board of Secondary Education Karachi </li>
+
+  <br> 
+
+  <li><b>Intermediate (Computer Sci):</b> From Board of Intermediate of Karachi </li>
+
+  </ul>
+
+  <br>
+
+  <h2><u>SKILLS</u></h2>
+
+<ul>
+
+    <ul>
+
+        <li><b>Shopify</b></li>
+
+        <li><b>Wordpress</b></li>
+
+        <li><b>Elementor</b></li>
+
+        <li><b>Spreedsheet</b></li>
+
+    </ul>
+
+</ul>
+
+<br>
+
+<h2><u>EXPERIENCE</u></h2>
+
+<ul>
+
+    <ul>
+
+        <li><b> Worked as Shopify Developer in a Software House for 6 months </b></li>
+
+    </ul>
+
+</ul>
+
+<br>
+
+<h2><u>HOBBY</u></h2>
+
+<ul>
+
+    <ul>
+
+        <li><b>Computer Programming</b></li>
+
+        <li><b>Web Development</b></li>
+
+        <li><b>Cricket</b></li>
+
+    </ul>
+
+</ul>
+
+</p>   
+
+   </body>
+
+   
+
+</html>
+
+...
+
+Displaying CV.html.
